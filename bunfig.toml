@@ -1,0 +1,2 @@
+[script]
+start = "bun run server.ts"
